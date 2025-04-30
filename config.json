@@ -1,0 +1,105 @@
+{
+    "dont_ask_for_update": false,
+    "webhook_url": "",
+    "private_server_link": "",
+    "ps_link_type": "Public",
+    "discord_user_id": "",
+    "farming_world": "Zen",
+    "enable_farming": false,
+    "auto_bubble_sell": false,
+    "auto_bubble_sell_minutes": "10",
+    "royal_chest_alert": false,
+    "royal_chest_alert_value": "",
+    "egg_hatching_detection": false,
+    "aura_egg_alert": false,
+    "silly_egg_alert": false,
+    "roblox_username": "",
+    "world_mapicon": [
+        0,
+        0
+    ],
+    "zen_mapicon": [
+        0,
+        0
+    ],
+    "overworld_mapicon": [
+        0,
+        0
+    ],
+    "world_teleport_button": [
+        0,
+        0
+    ],
+    "anti_afk": false,
+    "ignore_cam_align": false,
+    "auto_buy_alien_stock": false,
+    "auto_buy_alien_stock_minutes": "20",
+    "auto_claim_chest": false,
+    "auto_claim_chest_minutes": "35",
+    "auto_daily_quest": false,
+    "auto_daily_quest_minutes": "70",
+    "dailyquest_mapicon": [
+        51,
+        429
+    ],
+    "alien_gembutton1": [
+        772,
+        649
+    ],
+    "alien_gembutton2": [
+        957,
+        651
+    ],
+    "alien_gembutton3": [
+        1134,
+        649
+    ],
+    "float_chest_collect_button": [
+        1082,
+        214
+    ],
+    "void_chest_collect_button": [
+        830,
+        878
+    ],
+    "daily_gift_skip_button": [
+        962,
+        616
+    ],
+    "daily_gift_box_1": [
+        663,
+        427
+    ],
+    "daily_gift_box_2": [
+        788,
+        431
+    ],
+    "daily_gift_box_3": [
+        904,
+        436
+    ],
+    "daily_gift_box_4": [
+        1018,
+        437
+    ],
+    "daily_gift_box_5": [
+        716,
+        554
+    ],
+    "daily_gift_box_6": [
+        844,
+        565
+    ],
+    "daily_gift_box_7": [
+        975,
+        564
+    ],
+    "daily_gift_box_8": [
+        747,
+        704
+    ],
+    "daily_gift_box_9": [
+        997,
+        725
+    ]
+}
