@@ -16,7 +16,7 @@ A macro designed for Roblox game **Bubble Gum Simulator INFINITY**, which featur
 ---
 
 ## 🔧 Installation (IMPORTANT PLEASE READ THIS BEFORE YOU DO ANYTHING ELSE)
-### Tutorial video for macro installation: 
+### Tutorial video for macro installation: https://www.youtube.com/watch?v=tQfiCrr6Pks
 ### Requirements
 - Bloxstrap (recommended and download it here: https://github.com/bloxstraplabs/bloxstrap/releases/tag/v2.9.0)
 - Bloxstrap FastFlag (Expchat for Royal Chest/Silly Egg/Hatching Egg detection)
