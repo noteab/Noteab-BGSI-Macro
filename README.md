@@ -16,6 +16,7 @@ A macro designed for Roblox game **Bubble Gum Simulator INFINITY**, which featur
 ---
 
 ## 🔧 Installation (IMPORTANT PLEASE READ THIS BEFORE YOU DO ANYTHING ELSE)
+### Install it here: https://github.com/noteab/Noteab-BGSI-Macro/releases (My macro isn't digitally signed so window defender might hate it...so make sure to turn the antivirus off!)
 ### Tutorial video for macro installation: https://www.youtube.com/watch?v=tQfiCrr6Pks
 ### Requirements
 - Bloxstrap (recommended and download it here: https://github.com/bloxstraplabs/bloxstrap/releases/tag/v2.9.0)
